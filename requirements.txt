@@ -1,0 +1,13 @@
+# No external dependencies required for basic exploit
+# Python standard library only (socket, time, argparse)
+
+# Optional (for enhanced functionality):
+# requests==2.31.0          # HTTP requests (for HTTP-based variants)
+# pwntools==4.10.0          # CTF utility library
+# colorama==0.4.6           # Terminal colors
+# tqdm==4.66.1              # Progress bars
+
+# Development/testing:
+# pytest==7.4.3
+# pylint==3.0.0
+# black==23.12.0
